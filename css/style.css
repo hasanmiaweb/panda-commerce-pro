@@ -1,0 +1,51 @@
+body {
+  font-family: "Fraunces", serif;
+}
+/*Main Menu Start*/
+.navbar-light .navbar-nav .nav-link.active {
+  color: #ff6a00 !important;
+}
+.navbar-nav .nav-item .nav-link {
+  font-size: 16px;
+  font-weight: 200;
+}
+.navbar-nav .nav-item .nav-link:hover {
+  color: #ff6a00;
+}
+/*Main Menu End*/
+
+/*Slider Start*/
+.carousel-item img {
+  width: 350px !important;
+}
+
+.top-slider-dec span {
+    font-size: 30px;
+    font-weight: 600;
+    color: #ff6a00;
+}
+
+button.btn {
+    background: #ff6a00;
+    color: white;
+    padding: 10px 30px;
+    font-size: 18px;
+    font-weight: 700;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon{
+    display: none;
+}
+
+.carousel-indicators li{
+    width: 15px;
+    height: 15px;
+    background-color: #ff6a00;
+    border-radius: 50%;
+}
+.carousel-item {
+  padding: 50px;
+}
+#top-slider {
+  background-color: #feeae9;
+}
+/*Slider End*/
