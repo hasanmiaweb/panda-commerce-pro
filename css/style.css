@@ -49,3 +49,29 @@ button.btn {
   background-color: #feeae9;
 }
 /*Slider End*/
+
+
+.category-main-sec {
+  height: 143px;
+  margin-top: 20px;
+}
+.category-main-sec img {
+  width: 150px;
+  height: 150px;
+}
+.cut1{
+  background-color: #ff6a00;
+  color: white;
+  border-radius: 10px;
+}
+.cut2{
+  background-color: orchid;
+  width: 100%;
+  color: white;
+  border-radius: 10px;
+}
+.cut3{
+  background-color:rgb(255, 212, 21);
+  color: white;
+  border-radius: 10px;
+}
